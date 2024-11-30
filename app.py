@@ -75,7 +75,7 @@ from PIL import Image
 import streamlit as st
 
 # Load and display the logo
-logo_path = "/content/Screenshot_2024-11-27_011040-removebg-preview.png"
+logo_path = "/content/kiran.jpg"
 logo = Image.open(logo_path)
 
 # Create two columns: one for the logo and one for the title
